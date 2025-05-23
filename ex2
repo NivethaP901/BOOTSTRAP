@@ -1,0 +1,8 @@
+bootstrap/
+├── css/
+│   ├── bootstrap.min.css       # Minified CSS (production)
+│   └── bootstrap.css          # Uncompressed (development)
+├── js/
+│   ├── bootstrap.bundle.min.js # Minified JS + Popper (for dropdowns/tooltips)
+│   └── bootstrap.min.js       # Minified JS (without Popper)
+└── icons/                     # (If using Bootstrap Icons)
